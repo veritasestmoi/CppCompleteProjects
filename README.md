@@ -3,4 +3,4 @@ A complication of damn difficult C++ programs I built when I was smart and I for
 
 [Check Out My Caculator](/veritasestmoi/CppCompleteProjects/___/_branch_)
 
-![](https://i.ibb.co/t3QV68C/caccode.png | width=100)
+![image](https://i.ibb.co/t3QV68C/caccode.png)
